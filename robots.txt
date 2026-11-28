@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://makcha.factpane.com/sitemap.xml
